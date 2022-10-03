@@ -7,6 +7,8 @@
 Get line bot of vegetable information using **[line-bot-sdk-python](https://github.com/line/line-bot-sdk-python)**.
 
 ## Introduction
+- **Database: [PostgreSQL](https://www.postgresql.org/)**
+- **Deployment platform: [Render](https://render.com/)**
 - **Coming soon...**
 
 ## How to use
