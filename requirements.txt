@@ -1,0 +1,7 @@
+line-bot-sdk==2.3.0
+Scrapy==2.6.2
+beautifulsoup4==4.11.1
+Flask==2.2.2
+gunicorn==20.1.0
+black==22.8.0
+bandit==1.7.4

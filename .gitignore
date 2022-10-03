@@ -1,0 +1,7 @@
+.venv/
+LineBotApi/
+PostgreSQL/
+Resources/
+TaskScheduler/
+Run.bat
+Test_Code.txt
